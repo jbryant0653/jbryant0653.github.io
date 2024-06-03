@@ -1,0 +1,2 @@
+- setup stage channels for streaming meetings
+- Turn into a community server!

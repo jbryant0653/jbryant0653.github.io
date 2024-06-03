@@ -1,0 +1,139 @@
+{
+  "callouts": {
+    "custom": [
+      "lightbulb",
+      "mathy"
+    ],
+    "settings": {
+      "research": [
+        {
+          "changes": {
+            "icon": "lucide-flask-round"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "238, 255, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "238, 255, 0"
+          }
+        }
+      ],
+      "newcallout": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 187, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 187, 0"
+          }
+        }
+      ],
+      "lightbulb": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "245, 167, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "245, 167, 0"
+          }
+        }
+      ],
+      "Math": [
+        {
+          "changes": {
+            "icon": "lucide-badge-percent"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "251, 0, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "251, 0, 255"
+          }
+        }
+      ],
+      "BETTERMATH": [
+        {
+          "changes": {
+            "icon": "lucide-bug-off",
+            "color": "43, 255, 0"
+          }
+        }
+      ],
+      "mathy": [
+        {
+          "changes": {
+            "icon": "lucide-badge-percent"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "251, 0, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "238, 0, 255"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": false,
+    "snippet": true
+  }
+}
