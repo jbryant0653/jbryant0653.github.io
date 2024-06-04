@@ -8,7 +8,7 @@ Largest Column: Large
 Border: off
 ```
 
-![[Untitled 14.png]]
+![Untitled 14](attachments/Untitled%2014.png)
 
 --- end-multi-column
 
@@ -21,7 +21,7 @@ Largest Column: Full
 Border: on
 ```
 
-![[Untitled 1 6.png|Untitled 1 6.png]]
+![Untitled 1 6.png](attachments/Untitled%201%206.png)
 
 --- end-multi-column
 
@@ -35,7 +35,7 @@ Number of Columns: 1
 Largest Column: Large
 ```
 
-![[Untitled 2 7.png|Untitled 2 7.png]]
+![Untitled 2 7.png](attachments/Untitled%202%207.png)
 
 --- end-multi-column
 
@@ -54,14 +54,14 @@ Border: off
 --- column-break ---
 
 > [!info] Terminal
-> ![[Untitled 3 4.png|Untitled 3 4.png]]
+> ![Untitled 3 4.png](attachments/Untitled%203%204.png)
 
 --- end-multi-column
 
 ---
 
 - The site has many decompilers built in with the most normal to read being the <font color="#ff0000">angr</font> decompiler. Here is a list of the compilers:
-![[cropthis.png]]
+![cropthis](attachments/cropthis.png)
 - The way that I solved this was I just skimmed through the code to find where the <font color="#ff0000">:P</font> was entered into the console by the program and when I found it I found this section of the code:
 
 --- start-multi-column: ID_uo6b
@@ -72,11 +72,11 @@ Border: off
 Alignment: Center
 ```
 
-![[Untitled 5 3.png|250]]
+![250](attachments/Untitled%205%203.png)
 
 --- column-break ---
 
-![[Untitled 6 3.png|250]]
+![250](attachments/Untitled%206%203.png)
 
 --- end-multi-column
 
@@ -86,7 +86,7 @@ Alignment: Center
 - This is obvious when you look at the comparisons being made. The second comparisons of the array <font color="#ff0000">a0</font> is <font color="#ff0000">a0[4] != 76</font> . This shows that the values that they are being compared to are out of order.
     - Just read the ASCII decimal values in order from <font color="#ff0000">a0[0] </font>to <font color="#ff0000">a0[22]</font>. Put it in [CyberChef](https://gchq.github.io/CyberChef/) using <font color="#ff0000">from decimal</font>.
 
-![[Untitled 7 3.png|Untitled 7 3.png]]
+![Untitled 7 3.png](attachments/Untitled%207%203.png)
 
 > [!success]  Flag
 > BITSCTF{w3lc0me_t0_r3v}CyberChef

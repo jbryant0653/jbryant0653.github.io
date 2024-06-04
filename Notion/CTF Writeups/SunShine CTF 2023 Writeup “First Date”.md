@@ -2,22 +2,22 @@
 
 - We begin with the challenge description and the downloadable file shown below.
 
-![[Untitled 10.png|Untitled 10.png]]
+![Untitled 10.png](attachments/Untitled%2010.png)
 
 - Since we are given a `.zip` file we will `unzip` the file.
 
-![[Untitled 1 4.png|Untitled 1 4.png]]
+![Untitled 1 4.png](attachments/Untitled%201%204.png)
 
 - As usual, if given files with file extensions that you don’t know, you should use the `file` command.
 
-![[Untitled 2 5.png|Untitled 2 5.png]]
+![Untitled 2 5.png](attachments/Untitled%202%205.png)
 
 - Let's use the cat command to see what's in the text file to see if it is important.
 
 > [!important]  
 > Remember, Reversing challenges are meant to figure out what is going on in the background of a program to then solve the challenge.  
 
-![[Untitled 3 3.png|Untitled 3 3.png]]
+![Untitled 3 3.png](attachments/Untitled%203%203.png)
 
 - This doesn't have any significance to us at the moment, so we can focus on figuring out what is the executable `Playdate`.
 
@@ -25,11 +25,11 @@
 
 - Let's look up what playdate is first: [https://play.date/](https://play.date/)
 
-![[Untitled 4 3.png|Untitled 4 3.png]]
+![Untitled 4 3.png](attachments/Untitled%204%203.png)
 
 - Okay, so it is a Gameboy-like device. Given some thought, the file we are given is probably for a program that runs on this playdate. Let’s figure out how to open it now:
 
-![[Untitled 5 2.png|Untitled 5 2.png]]
+![Untitled 5 2.png](attachments/Untitled%205%202.png)
 
 - After reading through either of these links, you will find something called the `playdate simulator`. You can download the SDK and figure out how to download it after a quick Google search, which runs you through the entire simulator setup, which takes a bit of time.([https://play.date/dev/](https://play.date/dev/))
 - Also, after looking through the docs, you will learn that to open the .pdz file, you have to open the .pdx folder, which includes both the pdxinfo file and the .pdz file.
@@ -37,35 +37,35 @@
 
 ---
 
-![[Untitled 6 2.png|Untitled 6 2.png]]
+![Untitled 6 2.png](attachments/Untitled%206%202.png)
 
 - Many random letters and numbers will pass the screen quickly with a Press a button! Symbol.
 - The program is limited and not very interesting. Remember, the point of reversing is to find out about what is going on in the background. Let's do more research on this playdate simulator by searching `playdate reversing`.
 
-![[Untitled 7 2.png|Untitled 7 2.png]]
+![Untitled 7 2.png](attachments/Untitled%207%202.png)
 
   
 
 > [!important]  
 > Boom, we found where we need to go, and hopefully, we will exploit this! Let's look into the GitHub real quick:  
 
-![[Untitled 8 2.png|Untitled 8 2.png]]
+![Untitled 8 2.png](attachments/Untitled%208%202.png)
 
 - The first thing that catches my eye is the `[pdz.py](http://pdz.py)` file, which will unpack all the files from the container! This is exciting now.
 
 > [!important]  
 > Something to note is that this Python script runs using arguments given to the program via the terminal. Without the arguments, you will get an error.  
 
-![[Untitled 9 2.png|Untitled 9 2.png]]
+![Untitled 9 2.png](attachments/Untitled%209%202.png)
 
 - Run `python` `[pdz.py](http://pdz.py)` `main.pdz ./` or `pdz.py main.pdz ./` for windows. This should give you a `main.luac` file shown below.
 
-![[Untitled 10 2.png|Untitled 10 2.png]]
+![Untitled 10 2.png](attachments/Untitled%2010%202.png)
 
 - After looking up what a `.luac` file is, you can find on [fileinfo.com](http://fileinfo.com) that it is a compiled version of a lua file. As reversing goes, you have to decompile it.
 - If we return to GitHub, where we got the pdz program, we can also find a luac decompiler.
 
-![[Untitled 11.png]]
+![Untitled 11](attachments/Untitled%2011.png)
 
 - Either download the `.jar` file or `unluac.sh`. I used the .jar file and ran the command `java -jar unluac.jar -o file.lua main.luac`.
 - Finally, this outputs sexy Lua code!!!
@@ -129,7 +129,7 @@ end
       
     `Pin entered correctly! Flag: sun{MIEANBLVFPZJTDOA}`
 
-![[Untitled 12.png]]
+![Untitled 12](attachments/Untitled%2012.png)
 
   
 

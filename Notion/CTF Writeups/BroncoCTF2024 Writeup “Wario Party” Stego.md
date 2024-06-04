@@ -18,7 +18,7 @@ Border: off
 
 --- column-break ---
 
-![[Untitled 15.png|Untitled 15.png]]
+![Untitled 15.png](attachments/Untitled%2015.png)
 
 --- end-multi-column
 
@@ -35,7 +35,7 @@ Border: off
 
 --- column-break ---
 
-![[Untitled 1 7.png|400]]
+![400](attachments/Untitled%201%207.png)
 
 --- end-multi-column
 
@@ -60,13 +60,13 @@ Border: off
 Alignement: Center
 ```
 
-![[Untitled 2 8.png]]
-![[Untitled 3 5.png|Untitled 3 5.png]]
+![Untitled 2 8](attachments/Untitled%202%208.png)
+![Untitled 3 5.png](attachments/Untitled%203%205.png)
 
 --- column-break ---
 
-![[Untitled 4 5.png|Untitled 4 5.png]]
-![[Untitled 5 4.png|Untitled 5 4.png]]
+![Untitled 4 5.png](attachments/Untitled%204%205.png)
+![Untitled 5 4.png](attachments/Untitled%205%204.png)
 
 --- end-multi-column
 
@@ -84,7 +84,7 @@ Border: off
 
 --- column-break ---
 
-![[Untitled 6 4.png|Untitled 6 4.png]]
+![Untitled 6 4.png](attachments/Untitled%206%204.png)
 
 --- end-multi-column
 
@@ -110,7 +110,7 @@ Border: off
 
 --- column-break ---
 
-![[Untitled.jpeg]]
+![Untitled](attachments/Untitled.jpeg)
 
 --- end-multi-column
 
@@ -124,7 +124,7 @@ Border: off
                 - So, each RGB image has <font color="#ff0000">24-bit planes</font>.
 
 > [!example] Bit Planes  
-> ![[Untitled 1.jpeg]]
+> ![Untitled 1](attachments/Untitled%201.jpeg)
 - This idea of showing images in bit planes is the basis for hiding encoded data in an image.
     - Binary has <font color="#ff0000">MSB</font>(most significant bits)[<font color="#ff0000">**1**</font>0000000] and LSB. The MSB is most significant because it represents the largest number, so <font color="#ff0000">$2^7$</font> for MSB.
     - If you encode data in the MSB, you will likely cause <font color="#ff0000">noise</font> in the original image, and your stenography will be garbage.
@@ -150,7 +150,7 @@ Border: off
 
 --- column-break ---
 
-![[Untitled 7 4.png|Untitled 7 4.png]]
+![Untitled 7 4.png](attachments/Untitled%207%204.png)
 
 --- end-multi-column
 
@@ -165,7 +165,7 @@ Border: off
 
 --- column-break ---
 
-![[Untitled 8 3.png|Untitled 8 3.png]]
+![Untitled 8 3.png](attachments/Untitled%208%203.png)
 
 --- end-multi-column
 
@@ -181,7 +181,7 @@ Border: off
 
 --- column-break ---
 
-![[Untitled 9 3.png|Untitled 9 3.png]]
+![Untitled 9 3.png](attachments/Untitled%209%203.png)
 
 --- end-multi-column
 
@@ -196,13 +196,13 @@ Border: off
 
 - Downloading the jpeg gives an image of Marios and Warios. With 8 of them every single time. This is binary!
 - Putting the values painfully into [CyberChef](https://gchq.github.io/CyberChef/) painfully gives you the flag!
-- Deep link to Recipe: [Recipe](https://gchq.github.io/CyberChef/#recipe=From_Binary('Space',8)&input=MDExMDAwMTAgMDExMTAwMTAgMDExMDExMTEgMDExMDExMTAgMDExMDAwMTEgMDExMDExMTEgMDExMTEwMTEgMDExMDAwMTAgMDAxMTAwMDAgMDExMTAxMTEgMDExMTAwMTEgMDAxMTAwMTEgMDExMTAwMTAgMDEwMTExMTEgMDExMDAxMTEgMDAxMTAwMDAgMDExMTAxMDAgMDEwMTExMTEgMDExMTAxMDAgMDExMDEwMDAgMDAxMTAxMDAgMDExMTAxMDAgMDEwMTExMTEgMDExMDAxMDAgMDExMTAxMDEgMDExMDExMDEgMDExMTAwMDAgMDExMTEwMDEgMDExMTExMDEgMDAwMDEwMTAK)
+- Deep link to Recipe: [](https://gchq.github.io/CyberChef/#recipe=From_Binary('Space',8)&input=MDExMDAwMTAgMDExMTAwMTAgMDExMDExMTEgMDExMDExMTAgMDExMDAwMTEgMDExMDExMTEgMDExMTEwMTEgMDExMDAwMTAgMDAxMTAwMDAgMDExMTAxMTEgMDExMTAwMTEgMDAxMTAwMTEgMDExMTAwMTAgMDEwMTExMTEgMDExMDAxMTEgMDAxMTAwMDAgMDExMTAxMDAgMDEwMTExMTEgMDExMTAxMDAgMDExMDEwMDAgMDAxMTAxMDAgMDExMTAxMDAgMDEwMTExMTEgMDExMDAxMDAgMDExMTAxMDEgMDExMDExMDEgMDExMTAwMDAgMDExMTEwMDEgMDExMTExMDEgMDAwMDEwMTAK)
 
 > [!success]  Flag
 > bronco{b0ws3r_g0t_th4t_dumpy}  
 
 --- column-break ---
 
-![[Untitled 2.jpeg]]
+![Untitled 2](attachments/Untitled%202.jpeg)
 
 --- end-multi-column

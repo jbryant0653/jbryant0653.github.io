@@ -23,13 +23,13 @@
 > [!important]  
 > CyberChef has a magic feature that will auto-pop up if they think your input properly decodes to a certain encoding. This pop-up looks like this:  
 
-![[Untitled 8.png|Untitled 8.png]]
+![Untitled 8.png](attachments/Untitled%208.png)
 
 - Press the button and it will change the new output to the input and possibly try and use magic on the new input again if the ciphertext was encoded many times.
 - After pressing the magic button very quickly the flag will come out and the recipe window will show you what decoding schemes they used and in what order!
 
-![[Untitled 1 2.png|Untitled 1 2.png]]
+![Untitled 1 2.png](attachments/Untitled%201%202.png)
 
 - The flag is then in the output window as `PCTF{w0w_s0_m4ny_number5}`
 
-![[Untitled 2 3.png|Untitled 2 3.png]]
+![Untitled 2 3.png](attachments/Untitled%202%203.png)

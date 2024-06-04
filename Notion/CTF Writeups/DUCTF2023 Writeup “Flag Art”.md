@@ -4,7 +4,7 @@
 
 Generally, when looking at Crypto ctfs, you will be given 2 things: a program that “encrypts” the flag and the output (which is the encrypted flag). This is what this challenge looked like!
 
-![[Untitled.png]]
+![Untitled](attachments/Untitled.png)
 
 .py is the encryption program and output.txt is the encrypted flag.
 

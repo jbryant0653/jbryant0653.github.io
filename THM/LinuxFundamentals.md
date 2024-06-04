@@ -116,7 +116,7 @@
 	- stat fileName (about file)
 	- stat -f fileName (about filesystem)
 - Or use the <font color="#ff0000">ls -l</font> command for information about the files and folders.
-	- ![[ls -l command format.png]]
+	- ![ls -l command format](attachments/ls%20-l%20command%20format.png)
 	- <font color="#ff0000">Filetype</font>: 
 		- <font color="#ffc000">"-":</font> Regular File
 		- <font color="#ffc000">"d":</font> Directory
@@ -135,7 +135,7 @@
 		- <font color="#ffc000">"s":</font> Unix Domain Socket
 			- Same as named pipe accept it is typically used for communicated between processes across a network or local but similar processes.
 	- <font color="#ff0000">Permissions</font>: The read,write, and execute permission for the user, group, and other.
-		- ![[Permissions section format.png]]
+		- ![Permissions section format](attachments/Permissions%20section%20format.png)
 			- <font color="#ffc000">"r"</font>: Read
 			- <font color="#ffc000">"w"</font>: Write
 			- <font color="#ffc000">"x"</font>: eXecute

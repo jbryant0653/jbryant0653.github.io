@@ -107,7 +107,7 @@ Border: off
 
 --- column-break ---
 
-![[Bus Topology Image.png]]
+![Bus Topology Image](attachments/Bus%20Topology%20Image.png)
 
 --- end-multi-column
 
@@ -130,9 +130,9 @@ Border: off
 
 --- column-break ---
 
-![[Star Topology switch.png]]
+![Star Topology switch](attachments/Star%20Topology%20switch.png)
 
-![[Star Topology access point.png]]
+![Star Topology access point](attachments/Star%20Topology%20access%20point.png)
 
 --- end-multi-column
 
@@ -153,7 +153,7 @@ Border: off
 
 --- column-break ---
 
-![[Ring Topology.png]]
+![Ring Topology](attachments/Ring%20Topology.png)
 
 --- end-multi-column
 
@@ -174,7 +174,7 @@ Border: off
 
 --- column-break ---
 
-![[full Mesh Topology.png]]
+![full Mesh Topology](attachments/full%20Mesh%20Topology.png)
 
 > [!attention] Important!
 > It is only a full on mesh topology if every singe device is connected to all other devices!
@@ -199,7 +199,7 @@ Border: off
 
 --- column-break ---
 
-![[PointToPoint Serial Wires.png]]
+![PointToPoint Serial Wires](attachments/PointToPoint%20Serial%20Wires.png)
 
 --- end-multi-column
 
@@ -215,7 +215,7 @@ Border: off
 
 --- column-break ---
 
-![[PointToMultipoint topology.png]]
+![PointToMultipoint topology](attachments/PointToMultipoint%20topology.png)
 
 --- end-multi-column
 
@@ -231,7 +231,7 @@ Border: off
 
 --- column-break ---
 
-![[Mesh Topology.png]]
+![Mesh Topology](attachments/Mesh%20Topology.png)
 
 --- end-multi-column
 
@@ -285,9 +285,9 @@ Border: off
 
 --- column-break ---
 
-![[Three-Tiered Model.png]]
+![Three-Tiered Model](attachments/Three-Tiered%20Model.png)
 
-![[Collapsed Core Model.png]]
+![Collapsed Core Model](attachments/Collapsed%20Core%20Model.png)
 
 --- end-multi-column
 
@@ -306,7 +306,7 @@ Largest Column: standard
 
 --- column-break ---
 
-![[Spine and Leaf Model.png]]
+![Spine and Leaf Model](attachments/Spine%20and%20Leaf%20Model.png)
 
 --- end-multi-column
 

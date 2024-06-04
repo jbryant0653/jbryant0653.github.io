@@ -2,13 +2,13 @@
 
 - We begin with the challenge description and the downloadable file shown below.
 
-![[Untitled 13.png|Untitled 13.png]]
+![Untitled 13.png](attachments/Untitled%2013.png)
 
 Challenge Description
 
 - The first thing that I do when looking at a file with no extension or an extension that I don’t know, I use the `file` command on it.
 
-![[Untitled 1 5.png|Untitled 1 5.png]]
+![Untitled 1 5.png](attachments/Untitled%201%205.png)
 
 # Recon
 
@@ -92,7 +92,7 @@ validate ctfflag via this function:
 > [!important]  
 > Remember, based on the code, this is the flag. We can confirm this by running the flag through cyber chefs magic:  
 
-![[Untitled 2 6.png|Untitled 2 6.png]]
+![Untitled 2 6.png](attachments/Untitled%202%206.png)
 
 - So the since the flag format is sun{}. The flag should be `sun{``==ZGlsbGxpa2V0aGVwaWNrbGVnZXRpdD8K}==`
 - If you were to run this flag through the checker it would come out as true.

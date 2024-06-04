@@ -14,7 +14,7 @@ Border: off
 Content Overflow: Scroll
 ```
 
-![[Untitled 2.png|Untitled 2.png|400]] 
+![Untitled 2.png|400](attachments/Untitled%202.png) 
 
 --- end-multi-column
 # Challenge description
@@ -28,7 +28,7 @@ Largest Column: standard
 Col Size: Full
 ```
 
-![[Untitled 1.png|]]
+![Untitled 1](attachments/Untitled%201.png)
 
 --- end-multi-column
 
@@ -44,21 +44,21 @@ Border: off
 Content Overflow: Scroll
 ```
 
-![[Untitled 2 2.png|Untitled 2 2.png]]
+![Untitled 2 2.png](attachments/Untitled%202%202.png)
 
 CT.png
 
-![[Untitled 3.png]]
+![Untitled 3](attachments/Untitled%203.png)
 
 E.png
 
 --- column-break ---
 
-![[Untitled 4.png]]
+![Untitled 4](attachments/Untitled%204.png)
 
 P.png
 
-![[Untitled 5.png]]
+![Untitled 5](attachments/Untitled%205.png)
 
 Q.png
 
@@ -66,11 +66,11 @@ Q.png
 
 > [!hint]-  
 > We see that we have 3 very large numbers and 1 small number E. I can see from experience that this is obviously <font color="#ff0000">RSA Encryption</font>. But what if you didn’t know it was RSA Encryption, we can do some basic googling to see what we get. Something like googling <font color="#ff0000">“cryptography p q e ct”</font> will get you this result:  
-> ![[Untitled 6.png]]
+> ![Untitled 6](attachments/Untitled%206.png)
 
 > [!research]-
 > After reading you can tell these numbers are for RSA Encryption. Let's look up RSA Encryption and understand how it works(https://en.wikipedia.org/wiki/RSA_(cryptosystem)). Another great resource to understand things simply is (https://chat.openai.com/). Which explains things this way: 
-> ![[Untitled 7.png]]
+> ![Untitled 7](attachments/Untitled%207.png)
 
 * Based on what we have read above we know we must decrypt their message and we know that we should be able to because chatgpt said <font color="#ff0000">The security of RSA relies on the difficulty of factoring the product n into its prime factors p and q.</font> We are given <font color="#ff0000">p</font> and <font color="#ff0000">q</font> so we should be able to decrypt <font color="#ff0000">CT</font>.  
 
