@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/CTF Writeups/PatriotCTF2023 Writeup “Multi-numeral”.md",
+                "file": "Notion/CTF Writeups/BroncoCTF2024 Writeup “Wario Party” Stego.md",
                 "mode": "preview",
                 "source": true
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/CTF Writeups/PatriotCTF2023 Writeup “Multi-numeral”.md",
+                "file": "Notion/CTF Writeups/BroncoCTF2024 Writeup “Wario Party” Stego.md",
                 "mode": "source",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/CTF Writeups/PatriotCTF2023 Writeup “Multi-numeral”.md",
+                "file": "Notion/CTF Writeups/BroncoCTF2024 Writeup “Wario Party” Stego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/CTF Writeups/PatriotCTF2023 Writeup “Multi-numeral”.md",
+                "file": "Notion/CTF Writeups/BroncoCTF2024 Writeup “Wario Party” Stego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/CTF Writeups/PatriotCTF2023 Writeup “Multi-numeral”.md"
+                "file": "Notion/CTF Writeups/BroncoCTF2024 Writeup “Wario Party” Stego.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "037054562e414c0a",
   "lastOpenFiles": [
+    "Notion/CTF Writeups/PatriotCTF2023 Writeup “Multi-numeral”.md",
     "THM/LinuxFundamentals.md",
     "Notion/CTF Writeups/Untitled.md",
     "Notion/CTF Writeups/BroncoCTF2024 Writeup “Wario Party” Stego.md",
@@ -229,7 +230,6 @@
     "Notion/CTF Writeups/BroncoCTF2024 Write up “Preschool Lessons” Crypto.md",
     "Notion/CTF Writeups/SunShine CTF 2023 Writeup “First Date”.md",
     "Notion/CTF Writeups/SunShine CTF 2023 Writeup “Dill”.md",
-    "Notion/CTF Writeups/PatriotCTF2023 Writeup “Multi-numeral”.md",
     "Network+/attachments",
     "Notion/CTF Writeups.md",
     "Notion/CTF Notes/CTF Notes.md",
