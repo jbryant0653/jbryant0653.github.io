@@ -16,6 +16,11 @@ Border: off
 >Mario Color: <font color="#ff0000">Red</font>
 >Number of Brothers: <font color="#ff0000">2</font>
 
+:::{.callout-note}
+Note that there are five types of callouts, including: 
+`note`, `tip`, `warning`, `caution`, and `important`.
+:::
+
 --- column-break ---
 
 ![Untitled 15.png](attachments/Untitled%2015.png)
