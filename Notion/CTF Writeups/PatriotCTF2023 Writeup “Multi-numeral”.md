@@ -1,4 +1,4 @@
-- You are given a file called `challenge.txt` and I began by using the `cat` command to output the text to the console:
+-    You are given a file called `challenge.txt` and I began by using the `cat` command to output the text to the console:
 
 ```Plain
 0011010100110011001000000011010100110011001000000011001100110010001000000011010100110010001000000011010100110011001000000011001100110010001000000011010100110010001000000011011000
