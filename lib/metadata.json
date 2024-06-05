@@ -1,6 +1,6 @@
 {
   "vaultName": "Obsidian Vault",
-  "lastExport": 1717562385561,
+  "lastExport": 1717622323666,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title minimal-ayu-dark minimal-default-light colorful-frame colorful-active links-ext-on full-width-media minimal-line-nums minimal-readable minimal-dark-black code-styler code-styler-style-inline code-styler-gutter-highlight callouts-outlined trim-cols active-line-on minimal-strike-lists",
   "useCustomHeadContent": false,
@@ -14,23 +14,13 @@
     "Network+/Review Questions.md",
     "Notion/Books/Books.md",
     "Notion/Books/The Code Book.md",
-    "Notion/CTF Notes/BITSCTF2024.md",
-    "Notion/CTF Notes/BroncoCTF2024.md",
-    "Notion/CTF Notes/CTF Notes.md",
-    "Notion/CTF Notes/LACTF2024.md",
     "Notion/CTF Writeups/BITSCTF2024 Writeup “baby-rev” Reversing.md",
     "Notion/CTF Writeups/BroncoCTF2024 Write up “Preschool Lessons” Crypto.md",
     "Notion/CTF Writeups/BroncoCTF2024 Writeup “Wario Party” Stego.md",
-    "Notion/CTF Writeups/DUCTF2023 Writeup “Flag Art”.md",
-    "Notion/CTF Writeups/PatriotCTF2023 Writeup “Multi-numeral”.md",
     "Notion/CTF Writeups/PatriotCTF2023 Writeup “ReReCaptcha”.md",
-    "Notion/CTF Writeups/SunShine CTF 2023 Writeup “Dill”.md",
-    "Notion/CTF Writeups/SunShine CTF 2023 Writeup “First Date”.md",
     "Notion/HTB Notes/HTB Notes.md",
     "Notion/HTB Notes/Learning Process.md",
-    "Notion/2 min video.md",
     "Notion/CTF Writeups.md",
-    "Notion/Discord.md",
     "THM/LinuxFundamentals.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -109,373 +99,313 @@
   ],
   "fileInfo": {
     "Network+/Chapter 1.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 18336,
+      "modifiedTime": 1717622323666,
+      "sourceSize": 17555,
       "exportedPath": "Network+/Chapter 1.html",
       "dependencies": []
     },
     "Network+/Exam Information.md": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 157,
       "exportedPath": "Network+/Exam Information.html",
       "dependencies": []
     },
     "Network+/Exercises.md": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 930,
       "exportedPath": "Network+/Exercises.html",
       "dependencies": []
     },
     "Network+/Labs.md": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 1195,
       "exportedPath": "Network+/Labs.html",
       "dependencies": []
     },
     "Network+/Pre-Assessment.md": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 563,
       "exportedPath": "Network+/Pre-Assessment.html",
       "dependencies": []
     },
     "Network+/Review Questions.md": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 488,
       "exportedPath": "Network+/Review Questions.html",
       "dependencies": []
     },
     "Notion/Books/Books.md": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 37,
       "exportedPath": "Notion/Books/Books.html",
       "dependencies": []
     },
     "Notion/Books/The Code Book.md": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 2685,
       "exportedPath": "Notion/Books/The Code Book.html",
       "dependencies": []
     },
-    "Notion/CTF Notes/BITSCTF2024.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 0,
-      "exportedPath": "Notion/CTF Notes/BITSCTF2024.html",
-      "dependencies": []
-    },
-    "Notion/CTF Notes/BroncoCTF2024.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 1729,
-      "exportedPath": "Notion/CTF Notes/BroncoCTF2024.html",
-      "dependencies": []
-    },
-    "Notion/CTF Notes/CTF Notes.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 0,
-      "exportedPath": "Notion/CTF Notes/CTF Notes.html",
-      "dependencies": []
-    },
-    "Notion/CTF Notes/LACTF2024.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 0,
-      "exportedPath": "Notion/CTF Notes/LACTF2024.html",
-      "dependencies": []
-    },
     "Notion/CTF Writeups/BITSCTF2024 Writeup “baby-rev” Reversing.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 3853,
+      "modifiedTime": 1717622323666,
+      "sourceSize": 3460,
       "exportedPath": "Notion/CTF Writeups/BITSCTF2024 Writeup “baby-rev” Reversing.html",
       "dependencies": []
     },
     "Notion/CTF Writeups/BroncoCTF2024 Write up “Preschool Lessons” Crypto.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 3372,
+      "modifiedTime": 1717622323666,
+      "sourceSize": 2900,
       "exportedPath": "Notion/CTF Writeups/BroncoCTF2024 Write up “Preschool Lessons” Crypto.html",
       "dependencies": []
     },
     "Notion/CTF Writeups/BroncoCTF2024 Writeup “Wario Party” Stego.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 7633,
+      "modifiedTime": 1717622323666,
+      "sourceSize": 6793,
       "exportedPath": "Notion/CTF Writeups/BroncoCTF2024 Writeup “Wario Party” Stego.html",
       "dependencies": []
     },
-    "Notion/CTF Writeups/DUCTF2023 Writeup “Flag Art”.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 11544,
-      "exportedPath": "Notion/CTF Writeups/DUCTF2023 Writeup “Flag Art”.html",
-      "dependencies": []
-    },
-    "Notion/CTF Writeups/PatriotCTF2023 Writeup “Multi-numeral”.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 3607,
-      "exportedPath": "Notion/CTF Writeups/PatriotCTF2023 Writeup “Multi-numeral”.html",
-      "dependencies": []
-    },
     "Notion/CTF Writeups/PatriotCTF2023 Writeup “ReReCaptcha”.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 18258,
+      "modifiedTime": 1717622323666,
+      "sourceSize": 17792,
       "exportedPath": "Notion/CTF Writeups/PatriotCTF2023 Writeup “ReReCaptcha”.html",
       "dependencies": []
     },
-    "Notion/CTF Writeups/SunShine CTF 2023 Writeup “Dill”.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 3543,
-      "exportedPath": "Notion/CTF Writeups/SunShine CTF 2023 Writeup “Dill”.html",
-      "dependencies": []
-    },
-    "Notion/CTF Writeups/SunShine CTF 2023 Writeup “First Date”.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 6165,
-      "exportedPath": "Notion/CTF Writeups/SunShine CTF 2023 Writeup “First Date”.html",
-      "dependencies": []
-    },
     "Notion/HTB Notes/HTB Notes.md": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 41,
       "exportedPath": "Notion/HTB Notes/HTB Notes.html",
       "dependencies": []
     },
     "Notion/HTB Notes/Learning Process.md": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 1715,
       "exportedPath": "Notion/HTB Notes/Learning Process.html",
       "dependencies": []
     },
-    "Notion/2 min video.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 1748,
-      "exportedPath": "Notion/2 min video.html",
-      "dependencies": []
-    },
     "Notion/CTF Writeups.md": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 1913,
       "exportedPath": "Notion/CTF Writeups.html",
       "dependencies": []
     },
-    "Notion/Discord.md": {
-      "modifiedTime": 1717562385561,
-      "sourceSize": 77,
-      "exportedPath": "Notion/Discord.html",
-      "dependencies": []
-    },
     "THM/LinuxFundamentals.md": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 22893,
       "exportedPath": "THM/LinuxFundamentals.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1717562385561,
+      "modifiedTime": 1717622323666,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
